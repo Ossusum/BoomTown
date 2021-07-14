@@ -10,7 +10,7 @@ namespace BoomTown.Butler
 {
     public class NoteButler
     {
-        private string FilePath = @"..\..\notes.txt";
+        private string FilePath = @"..\notes.txt";
         private List<Note> AllNotes;
 
         public NoteButler()
